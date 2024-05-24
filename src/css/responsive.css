@@ -1,0 +1,221 @@
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+  .logo-item-box,
+  .header-box {
+    display: block;
+    text-align: center;
+  }
+  .community-text h2,
+  .faq-section-outer h2,
+  section.partners-section h2,
+  .abouts-left h2,
+  .competitive-heding h2,
+  .roadmap-section-outer h2,
+  .tokenomics-section-outer h2,
+  .whostiga-heding h2,
+  .gameply-heding h2 {
+    font-size: 50px;
+    line-height: 60px;
+  }
+  .reddit-icon img {
+    max-width: 60px;
+  }
+  .social-icn ul li a img {
+    max-width: 30px;
+  }
+  .social-icn ul li {
+    padding: 0 6px;
+  }
+  section.faq-section,
+  .footer-outer,
+  section.partners-section,
+  .abouts-section,
+  section.competitive-outer,
+  .roadmap-section,
+  .tokenomics-section,
+  .whostiga-section,
+  .gameply-section,
+  .presalestarts-section {
+    padding: 40px 0;
+  }
+  .faq-section-item,
+  .partners-section-item {
+    padding: 30px 0 0 0;
+  }
+  .partners-section-item ul li img {
+    max-width: 150px;
+  }
+  .competitive-heding,
+  .whostiga-heding,
+  .gameply-heding {
+    padding: 0 0 30px 0;
+  }
+  .competitive-list {
+    display: block;
+  }
+  .list-item-bx {
+    margin: 30px 0 0 0;
+    width: 100%;
+  }
+  .list-item-bx:first-child {
+    margin-top: 0;
+  }
+  .banner-slide-outer {
+    padding: 90px 0 30px 0;
+  }
+  .banner-slide-outer h2 {
+    font-size: 55px;
+
+    line-height: 60px;
+    padding: 15px 0 30px 0;
+  }
+  .banner-slide-outer h1 {
+    font-size: 75px;
+
+    line-height: 80px;
+  }
+  a.link-angle-down img {
+    max-width: 30px;
+  }
+  .abouts-section-outer,
+  .tokenomics-section-item,
+  .whostiga-section-item,
+  .gameply-section-item,
+  .presalestarts-section-item,
+  .switch-and-amount-box,
+  .atokenomics-left,
+  .whostiga-left {
+    display: block;
+    width: 100%;
+  }
+  .gameply-left,
+  .gameply-right,
+  .presalestarts-left,
+  .presalestarts-right,
+  .abouts-right,
+  .abouts-left {
+    display: block;
+    width: 100%;
+
+    padding: 0;
+  }
+  .presalestarts-section-item .presalestarts-right,
+  .atokenomics-left,
+  .whostiga-left {
+    padding: 0;
+  }
+  .switch-box-outer,
+  .amount-box-outer {
+    border-radius: 10px;
+    background-color: #2d2d2d;
+    width: 100%;
+  }
+  .switch-box-outer {
+    margin: 0 0 25px 0;
+  }
+  .abouts-right,
+  .abouts-left {
+    text-align: center;
+  }
+  .taxes-box {
+    padding: 15px 10px 15px 15px;
+
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .taxes-box p,
+  .abouts-left p,
+  .whostiga-heding p {
+    font-size: 16px;
+    line-height: 22px;
+  }
+  .atokenomics-left h3,
+  .atokenomics-left h4,
+  .whostiga-left h3 {
+    font-size: 30px;
+  }
+  .Buybackicon,
+  .Realyieldicon,
+  .Cashbackicon {
+    font-size: 20px;
+
+    line-height: 28px;
+    padding: 0 0 10px 45px;
+    margin: 15px 0 0 0;
+  }
+  .roadmap-section-item {
+    background-image: url(../images/map-mobile.jpg);
+    background-repeat: repeat-y;
+    background-position: 10px;
+  }
+  .card {
+    position: inherit;
+  }
+  .card-outer {
+    float: none;
+    width: calc(100% - 45px);
+    position: relative;
+    padding: 45px 0 0 45px;
+  }
+  .roadmap-outer {
+    height: inherit;
+    padding: 0;
+  }
+  .card-outer.card-two .card,
+  .card-outer.card-four .card,
+  .card-outer.card-three .card,
+  .card-outer.card-one .card {
+    width: auto;
+    left: inherit;
+    top: inherit;
+    bottom: inherit;
+  }
+  .card-outer::before {
+    content: "1";
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    background: #fb9411;
+    border-radius: 999px;
+    border: 3px solid #f2f2f2;
+    left: 0;
+    top: 52px;
+    text-align: center;
+    font-size: 15px;
+    color: #fff;
+  }
+
+  .card-outer.card-two::before {
+    content: "2";
+  }
+  .card-outer.card-three::before {
+    content: "3";
+  }
+  .card-outer.card-four::before {
+    content: "4";
+  }
+  .card-inner ul li {
+    font-size: 18px;
+  }
+
+  .card-outer.card-three .card {
+  }
+  .row-title-text.styles_row-title-text__1MuhU {
+    font-size: 18px;
+  }
+  ul.navbar-nav li {
+    padding: 0px 15px 0 15px;
+    margin: 20px 0 0 0;
+  }
+  ul.navbar-nav li.plywih a {
+    padding: 10px 20px;
+  }
+  /**/
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  ul.navbar-nav li {
+    padding: 0px 0px 0 25px;
+  }
+
+  /**/
+}
